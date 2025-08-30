@@ -1,11 +1,9 @@
+🌱 Ecos da Amazônia é um projeto voltado à valorização da biodiversidade amazônica, com protótipo desenvolvido no Figma para representar visualmente essa proposta.
 
-  # Untitled
+▶ Como executar o projeto:
 
-  This is a code bundle for Untitled. The original project is available at https://www.figma.com/design/CAuDqZqDYoq66Wtc5qw3C4/Untitled.
+git clone https://github.com/yaaszt/SiteEcosDaAmaz-nia.git
 
-  ## Running the code
+npm install
 
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+npm run dev
