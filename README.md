@@ -4,6 +4,8 @@
 
 git clone https://github.com/yaaszt/SiteEcosDaAmazonia.git
 
+cd SiteEcosDaAmazonia
+
 npm install
 
 npm run dev
