@@ -2,7 +2,7 @@
 
 ▶ Como executar o projeto:
 
-git clone https://github.com/yaaszt/SiteEcosDaAmaz-nia.git
+git clone https://github.com/yaaszt/SiteEcosDaAmazonia.git
 
 npm install
 
